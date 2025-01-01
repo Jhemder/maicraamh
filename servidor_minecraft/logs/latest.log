@@ -293,3 +293,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01Jan2025 03:20:45.657] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [01Jan2025 03:20:45.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jhershiro[/127.37.56.230:60271] logged in with entity id 537 at (-1216.0345957022662, 50.5, -1633.7690071125828)
 [01Jan2025 03:20:45.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro joined the game
+[01Jan2025 03:31:56.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jhershiro lost connection: Disconnected
+[01Jan2025 03:31:56.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jhershiro left the game
