@@ -4900,3 +4900,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01Jan2025 04:09:42.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jan2025 04:14:42.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 04:14:42.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 04:19:42.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 04:19:42.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 04:24:42.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 04:24:42.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
